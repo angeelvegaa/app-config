@@ -2,11 +2,13 @@
   {
     "clave": "BOTMNQ-97G7-4RD8",
     "machineId": "05bf8b42799e47d1cec979bf85f21f97dbfb01c5f7525310f4f30f65c5ece209",
-    "activa": true
+    "activa": true,
+    "producto": "ambos"
   },
   {
     "clave": "BOTMNQ-C5EK-VYXP",
     "machineId": "080db941f175b55395e2804a1157f92b6a20893996bf2bfbab3c479f64bca183",
-    "activa": true
+    "activa": true,
+    "producto": "bot"
   }
 ]
