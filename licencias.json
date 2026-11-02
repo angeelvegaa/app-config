@@ -10,5 +10,11 @@
     "machineId": "080db941f175b55395e2804a1157f92b6a20893996bf2bfbab3c479f64bca183",
     "activa": true,
     "producto": "ambos"
+  },
+  {
+    "clave": "BOTMNQ-Y4YB-NGW9",
+    "machineId": "",
+    "activa": true,
+    "producto": "ambos"
   }
 ]
